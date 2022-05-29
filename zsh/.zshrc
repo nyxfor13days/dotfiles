@@ -45,3 +45,5 @@ xset r rate 210 40
 export EDITOR="nvim"
 export TERMINAL="alacritty"
 export BROWSER="brave"
+
+eval "$(starship init zsh)"
