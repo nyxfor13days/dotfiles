@@ -144,4 +144,4 @@ exec_always killall polybar
 exec_always polybar primary &
 exec_always polybar secondary &
 exec_always picom &
-exec_always feh --bg-fill $HOME/Pictures/Wallpapers/wp5203374-anime-your-name-pc-4k-wallpapers.jpg
+exec_always feh --bg-fill $HOME/Pictures/Wallpapers/wallpaper.jpg
