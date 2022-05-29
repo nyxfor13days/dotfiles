@@ -46,4 +46,5 @@ export EDITOR="nvim"
 export TERMINAL="alacritty"
 export BROWSER="brave"
 
-eval "$(starship init zsh)"
+autoload -U promptinit; promptinit
+prompt spaceship

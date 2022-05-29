@@ -5,4 +5,5 @@ SAVEHIST=1000000
 
 ######################## PATH Variable
 export PATH="$HOME/.local/bin":$PATH
+export ZSHTHEMESDIR="$ZDOTDIR/zsh-themes"
 ######################## END

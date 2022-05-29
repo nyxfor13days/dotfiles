@@ -83,7 +83,7 @@ scrolling:
 
 font:
   normal:
-    family: "Hack Nerd Font"
+    family: "Fira Code"
     style: Regular
 
   bold:
