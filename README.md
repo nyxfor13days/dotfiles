@@ -1,4 +1,10 @@
-![logo-full](./assets/logo-full.png)
+<p align="center">
+    <img alt="./assets/logo-full.png" height="250" src="https://raw.githubusercontent.com/CodeNyxCode/dotfiles/master/assets/logo-full.png"/>
+</p>
+
+# Table of Content
+- [To Do](https://github.com/CodeNyxCode/dotfiles/edit/master/README.md#to-do)
+- About the config
 
 # To Do
 - [x] alacritty
