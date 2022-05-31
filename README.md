@@ -3,8 +3,8 @@
 </p>
 
 # Table of Content
-- [To Do](https://github.com/CodeNyxCode/dotfiles/README.md#to-do)
-- About the config
+- [To Do](https://github.com/CodeNyxCode/dotfiles/blob/master/README.md#to-do)
+- [About the config](https://github.com/CodeNyxCode/dotfiles/blob/master/README.md#about-the-config)
 
 # To Do
 - [x] alacritty
@@ -22,3 +22,6 @@ ______________________
 ______________________
 - [x] i3wm + i3wm-gaps
 - [ ] awesome
+
+# About the config
+... in progress
