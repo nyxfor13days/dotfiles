@@ -3,7 +3,7 @@
 </p>
 
 # Table of Content
-- [To Do](https://github.com/CodeNyxCode/dotfiles/master/README.md#to-do)
+- [To Do](https://github.com/CodeNyxCode/dotfiles/README.md#to-do)
 - About the config
 
 # To Do
