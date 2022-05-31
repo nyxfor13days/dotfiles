@@ -6,7 +6,7 @@ set $left h
 set $right l
 
 ######################## Fonts
-font pango:monospace 8
+font pango:Fira Code 8
 
 ######################## Essentials
 exec --no-startup-id dex --autostart --environment i3
@@ -140,6 +140,7 @@ client.background       #282a36
 
 ######################## Autostart
 exec_always $HOME/.screenlayout/default.sh
+exec_always $HOME/.screenlayout/vga-default.sh
 exec_always killall polybar
 exec_always polybar primary &
 exec_always polybar secondary &

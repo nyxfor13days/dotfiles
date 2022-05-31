@@ -4,6 +4,6 @@ HISTSIZE=1000000
 SAVEHIST=1000000
 
 ######################## PATH Variable
-export PATH="$HOME/.local/bin":$PATH
+export PATH="$HOME/.local/bin:/home/nyx/.local/share/solana/install/active_release/bin:$PATH"
 export ZSHTHEMESDIR="$ZDOTDIR/zsh-themes"
 ######################## END
