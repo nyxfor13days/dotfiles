@@ -9,7 +9,7 @@
 # To Do
 - [x] alacritty
 - [ ] polybar
-- [ ] rofi
+- [x] rofi
 - [ ] dunst
 - [x] picom
 ______________________
