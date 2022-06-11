@@ -112,6 +112,9 @@ mouse:
 
 live_config_reload: true
 
+shell:
+  program: /bin/zsh
+
 key_bindings:
   - { key: V,              mods: Control|Shift,                   action: Paste            }
   - { key: C,              mods: Control|Shift,                   action: Copy             }
